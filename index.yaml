@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  apps:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-01-02T09:53:56.2742145-05:00"
+    description: A Helm chart for Kubernetes
+    digest: a8800812a648d5466c2fa9bce7aac11ef7aeee4a7e36d703f5a3ff670da5498b
+    name: apps
+    type: application
+    urls:
+    - https://mylandmaktechnology.github.io/helm22/apps-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-01-02T09:53:56.2732155-05:00"
